@@ -6,12 +6,12 @@ I'm a **Frontend Developer with over 6 years of experience** building responsive
 
 - 💼 I’m working on projects that involve **web development**, **frontend frameworks**, and **real-time systems**.
 - 💬 Ask me about **React**, **Next.js**, **Vue**,  **Nuxt.js**  or anything related to **frontend development**.
-- 📫 How to reach me: [Email](mailto:armandomucekuu@gmail.com) or [LinkedIn](https://linkedin.com/in/armandomuceku).
+- 📫 How to reach me: [Email](mailto:armandomuceku1@gmail.com) or [LinkedIn](https://linkedin.com/in/armandomuceku).
 
 ## 🛠️ Tech Stack
 
 - **Languages**: JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Vue, Nuxt and many more
+- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Vue, Nuxt, Jest, and many more..
 - **Tools**: Git, VS Code, Postman, Figma
 
 ## 📈 GitHub Stats
