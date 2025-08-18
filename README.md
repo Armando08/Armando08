@@ -20,7 +20,7 @@ I'm a **Frontend Developer with over 6 years of experience** building responsive
 
 ## 🌐 Connect with Me
 
-- [Portfolio - Comming Soon]
+- [Portfolio - Coming Soon]
 - [LinkedIn](https://www.linkedin.com/in/armandomuceku)
 
 Thanks for visiting my profile! 😊
