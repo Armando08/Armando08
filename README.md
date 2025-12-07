@@ -14,9 +14,6 @@ I'm a **Frontend Developer with over 6 years of experience** building responsive
 - **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Vue, Nuxt, Jest, and many more..
 - **Tools**: Git, VS Code, Postman, Figma
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=armando08&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 
