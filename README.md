@@ -1,23 +1,63 @@
-# Hi there, I'm Armando! 👋
+# Hi, I’m Armando 👋  
 
-I'm a **Frontend Developer with over 6 years of experience** building responsive, user-focused web applications with modern technologies. Welcome to my GitHub profile!
+I’m a **Senior Frontend Developer** with **7+ years of professional experience** building scalable, high-performance web applications with a strong focus on user experience, maintainability, and clean architecture.
+
+---
 
 ## 🚀 About Me
 
-- 💼 I’m working on projects that involve **web development**, **frontend frameworks**, and **real-time systems**.
-- 💬 Ask me about **React**, **Next.js**, **Vue**,  **Nuxt.js**  or anything related to **frontend development**.
-- 📫 How to reach me: [Email](mailto:armandomuceku1@gmail.com) or [LinkedIn](https://linkedin.com/in/armandomuceku).
+- Experienced in building **modern, responsive web applications** used in real-world production environments  
+- Strong focus on **frontend architecture**, performance optimization, and long-term maintainability  
+- Comfortable working in **cross-functional teams** and contributing to technical decisions  
+- Experience working with **full frontend stacks**, including backend integrations and cloud services  
+- Happy to discuss **React**, **Next.js**, **Vue**, **Nuxt**, **Firebase**, **Node.js**, and frontend best practices  
+- 📫 Reach me via [Email](mailto:armandomuceku1@gmail.com) or [LinkedIn](https://linkedin.com/in/armandomuceku)
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Vue, Nuxt, Jest, and many more..
-- **Tools**: Git, VS Code, Postman, Figma
+### Languages
+- JavaScript (ES6+)  
+- TypeScript  
+- HTML5, CSS3  
 
+### Frontend Frameworks & Libraries
+- React, Next.js  
+- Vue, Nuxt  
+- Redux, Zustand, React Query  
+- Tailwind CSS, CSS Modules, SCSS  
+- Vite, Webpack  
+- Framer Motion  
+
+### Backend & Cloud
+- Node.js  
+- Express.js  
+- Firebase (Auth, Firestore, Functions, Hosting)  
+- REST APIs  
+- Basic experience with serverless architectures
+- Vercel
+
+### Testing
+- Jest  
+- Testing Library  
+- Cypress  
+
+### Tools & Workflow
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Figma  
+- CI/CD pipelines  
+- Agile / Scrum workflows  
+
+---
 
 ## 🌐 Connect with Me
 
-- [Portfolio - Coming Soon]
+- Portfolio — *Coming soon*  
 - [LinkedIn](https://www.linkedin.com/in/armandomuceku)
 
-Thanks for visiting my profile! 😊
+---
+
+Thanks for visiting — feel free to explore my repositories or get in touch 👋
