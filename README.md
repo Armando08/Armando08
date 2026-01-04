@@ -60,4 +60,4 @@ I’m a **Senior Frontend Developer** with **7+ years of professional experience
 
 ---
 
-Thanks for visiting — feel free to explore my repositories or get in touch 👋
+Feel free to get in touch 👋
