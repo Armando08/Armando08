@@ -55,7 +55,7 @@ I’m a **Senior Frontend Developer** with **7+ years of professional experience
 
 ## 🌐 Connect with Me
 
-- Portfolio — *Coming soon*  
+- [Website](https://armando08.github.io/personal-portofolio/)
 - [LinkedIn](https://www.linkedin.com/in/armandomuceku)
 
 ---
