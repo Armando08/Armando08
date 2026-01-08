@@ -28,7 +28,9 @@ I’m a **Senior Frontend Developer** with **7+ years of professional experience
 - Redux, Zustand, React Query  
 - Tailwind CSS, CSS Modules, SCSS  
 - Vite, Webpack  
-- Framer Motion  
+- Framer Motion
+- React Nativem Expo
+
 
 ### Backend & Cloud
 - Node.js  
@@ -36,7 +38,7 @@ I’m a **Senior Frontend Developer** with **7+ years of professional experience
 - Firebase (Auth, Firestore, Functions, Hosting)  
 - REST APIs  
 - Basic experience with serverless architectures
-- Vercel
+- Vercel (hosting & deployments)
 
 ### Testing
 - Jest  
